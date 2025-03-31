@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Developer | CS Student & Mentor Class representative, skilled in C, Python, HTML, CSS, JS, TS, and Angular. Driven to create and bring ideas to life.
+Junior Software Engineer | CS Student, Club Head & Mentor Class representative, Content Creator, skilled in C, Python, HTML, CSS, JS, TS, and Angular. Driven to create and bring ideas to life.
 
 
 ## 🌐 Socials:
