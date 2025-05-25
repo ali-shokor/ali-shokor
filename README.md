@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Software Engineer | 42 Student | CS Student @Lebanese University, Club Head & Mentor Class representative, Content Creator, skilled in C, Python, HTML, CSS, JS, TS, and Angular. Driven to create and bring ideas to life.
+Junior Software Engineer | 42 Student | CS Student @Lebanese University, Club Head & Mentor Class representative, Content Creator, skilled in C, Java, Python, JS, TS, and Angular. Driven to create and bring ideas to life.
 
 
 ## 🌐 Socials:
