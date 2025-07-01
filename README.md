@@ -1,6 +1,6 @@
 # 💫 About Me:
 Junior Software Engineer | 42 Student | CS Student @Lebanese University, Club Head & Mentor Class representative, Content Creator, skilled in C, Java, Python, JS, TS, and Angular. Driven to create and bring ideas to life.
-
+My Portfolio: [Portfolio](https://ali-shokor-portfolio.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali___shokor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-shokor-b961aa344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@skr.950) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AliShokor01) 
