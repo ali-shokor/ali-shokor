@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Software Engineer | AwS Certified | CS Student @Lebanese University, Club Head & Mentor Class representative, Content Creator, skilled in C, Java, Python, JS, TS, and Angular. Driven to create and bring ideas to life.
+Junior Software Engineer | AWS Certified | CS Student @Lebanese University, Club Head & Mentor Class representative, Content Creator, skilled in C, Java, Python, Flask, JS, TS, and Angular. Driven to create and bring ideas to life.
 
 My Portfolio: [Portfolio](https://ali-shokor-portfolio.vercel.app/)
 
